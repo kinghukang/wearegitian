@@ -1,1 +1,5 @@
-this is program 1 
+this is program 1
+
+Add welcome view 
+
+Add registration code
