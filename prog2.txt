@@ -3,3 +3,5 @@ this is prog2
 Add logic for Authorization using Gates
 
 Add logic for Authorization using Google
+
+Add logic for system which requires in domain name
